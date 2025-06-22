@@ -1,0 +1,21 @@
+.myBtn {
+  background-color: #3c3c3c; /* Green */
+  color: white;              /* Text color */
+  padding: 7px 12px;        /* Top-bottom and left-right padding */
+  border: none;              /* Remove default border */
+  border-radius: 30px;        /* Rounded corners */        
+  cursor: pointer;           /* Pointer on hover */
+  transition: background-color 0.3s; /* Smooth hover effect */
+  font-size: 19px;
+}
+
+.myBtn:hover {
+  background-color: #45a049; /* Darker green on hover */
+}
+.inp1{
+    font-size: 20px;
+}
+ul{
+    font-size: 20px;
+}
+
